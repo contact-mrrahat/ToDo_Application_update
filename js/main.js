@@ -48,6 +48,7 @@ update_btn.addEventListener("click", function(){
     post();
     post_btn.style.display=('inline-block')
     update_btn.style.display=('none')
+    error2.style.display= "none"
 })
 
 
