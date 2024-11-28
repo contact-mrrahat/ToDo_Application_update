@@ -93,6 +93,7 @@ function post (){
             post_btn.style.display=('none')
             update_btn.style.display=('inline-block')
             indexcunt=index;
+            error2.style.display= "none"
         })
 
        
